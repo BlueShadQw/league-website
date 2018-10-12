@@ -9,7 +9,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: green;
+    background-color: rgb(8, 83, 8);
 }
 li {
     color: greenyellow;
@@ -18,7 +18,7 @@ li {
 
 li a {
     display: block;
-    color: greenyellow;
+    color: rgb(104, 168, 8);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -27,15 +27,17 @@ li a {
 }
 
 body{
-    background-image: url('https://d181w3hxxigzvh.cloudfront.net/wp-content/uploads/2017/09/Twitch_Splash_Tile_0.jpg.mobafire.com/images/avatars/twitch-classic.png')
+    background: url('https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Twitch_0.jpg')
 }
  li a:hover {
-    background-color: darkgreen;
+    background-color: rgb(1, 46, 1);
 } 
 
 
 .text{
     font-family: monospace;
+    color: rgb(129, 158, 84);
+
 }
 
 
